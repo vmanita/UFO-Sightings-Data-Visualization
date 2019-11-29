@@ -1,0 +1,12 @@
+name: final
+title: final
+username:
+account: manita
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 655478
+bundleId: 1823908
+url: https://manita.shinyapps.io/final/
+when: 1547902645.11274
+asMultiple: FALSE
+asStatic: FALSE
